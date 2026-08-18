@@ -1,12 +1,15 @@
 
 about Kartheek
 
-Kartheek is erripuku
+Kartheek is a good boy
 #project
 
 
 
 this is my first project
 
-dgdbfgg
+SKILLS
 
+-python 
+-c
+-java
